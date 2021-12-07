@@ -1,0 +1,90 @@
+﻿<UserControl x:Class="KinoKvartal.UserControllnicio"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:KinoKvartal"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             mc:Ignorable="d" 
+             Height="auto" Width="auto">
+    <Grid>
+        <materialDesign:TransitioningContent x:Name="TransitionigContentsSlide" OpeningEffect="{materialDesign:TransitionEffect SlideInFromLeft, Duration=0:0:0.8}">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0" Height="300" Background="#FFF3F3F3" Margin="6">
+                    <Grid.Effect>
+                        <DropShadowEffect BlurRadius="20" Color="#FFDEDEDE" ShadowDepth="1"/>
+                    </Grid.Effect>
+
+                    <StackPanel Width="200">
+                        <TextBlock Margin="1" FontFamily="Cooper Black" Text="Побег из Шоушенка" HorizontalAlignment="Center" Foreground="Black"/>
+                        <Image Source="Films/1.jpg" Width="200" Height="200" Stretch="UniformToFill" Margin="0"/>
+                        <TextBlock FontSize="8" Margin="3 8 0 0" TextWrapping="Wrap" FontFamily="Cooper Black" Foreground="Gray">
+                            Несправедливо осужденный банкир готовит побег из тюрьмы. Тим Роббинс в выдающейся экранизации Стивена Кинга
+                        </TextBlock>
+                        <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                            <TextBlock Text="9.2" VerticalAlignment="Center" Margin="21 10 10 10" FontSize="20" Foreground="YellowGreen"/>
+                            <Button Width="110" Content="Подробнее" FontFamily="Cooper Black" FontSize="12" Margin="10"/>
+                        </StackPanel>
+                    </StackPanel>
+                </Grid>
+                <Grid Grid.Column="1" Height="300" Margin="6" Background="#FFF3F3F3">
+                    <Grid.Effect>
+                        <DropShadowEffect BlurRadius="20" Color="#FFDEDEDE" ShadowDepth="1"/>
+                    </Grid.Effect>
+
+                    <StackPanel Width="200">
+                        <TextBlock Margin="1" FontFamily="Cooper Black" Text="Крестный отец" HorizontalAlignment="Center" Foreground="Black"/>
+                        <Image Source="Films/2.jpg" Width="200" Height="200" Margin="0" Stretch="UniformToFill"/>
+                        <TextBlock FontSize="8" Margin="3 8 0 0" TextWrapping="Wrap" FontFamily="Cooper Black" Foreground="Gray">
+                            В семье крупного нью-йоркского мафиози наметился кризис. Революция в гангстерском кино и начало большого эпоса
+                        </TextBlock>
+                        <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                            <TextBlock Text="9.1" VerticalAlignment="Center" Margin="21 10 10 10" FontSize="20" Foreground="YellowGreen"/>
+                            <Button Width="110" Content="Подробнее" FontFamily="Cooper Black" FontSize="12" Margin="10"/>
+                        </StackPanel>
+                    </StackPanel>
+                </Grid>
+                <Grid Grid.Column="2" Height="300" Margin="6" Background="#FFF3F3F3">
+                    <Grid.Effect>
+                        <DropShadowEffect BlurRadius="20" Color="#FFDEDEDE" ShadowDepth="1"/>
+                    </Grid.Effect>
+
+                    <StackPanel Width="200">
+                        <TextBlock Margin="1" FontFamily="Cooper Black" Text="Крестный отец 2" HorizontalAlignment="Center" Foreground="Black"/>
+                        <Image Source="Films/3.jpg" Width="200" Height="200" Stretch="UniformToFill" Margin="0"/>
+                        <TextBlock FontSize="8" Margin="3 8 0 0" TextWrapping="Wrap" FontFamily="Cooper Black" Foreground="Gray">
+                            Юность Вито Корлеоне и первые шаги его сына Майкла в роли главы клана — сразу и приквел, и сиквел. Шесть «Оскаров»
+                        </TextBlock>
+                        <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                            <TextBlock Text="9.0" VerticalAlignment="Center" Margin="21 10 10 10" FontSize="20" Foreground="YellowGreen"/>
+                            <Button Width="110" Content="Подробнее" FontFamily="Cooper Black" FontSize="12" Margin="10"/>
+                        </StackPanel>
+                    </StackPanel>
+                </Grid>
+                <Grid Grid.Column="3" Height="300" Background="#FFF3F3F3" Margin="6">
+                    <Grid.Effect>
+                        <DropShadowEffect BlurRadius="20" Color="#FFDEDEDE" ShadowDepth="1"/>
+                    </Grid.Effect>
+
+                    <StackPanel Width="200">
+                        <TextBlock Margin="1" FontFamily="Cooper Black" Text="Темный рыцарь" HorizontalAlignment="Center" Foreground="Black"/>
+                        <Image Source="Films/4.jpg" Width="200" Height="200" Stretch="UniformToFill" Margin="0"/>
+                        <TextBlock FontSize="8" Margin="12 8 0 0" TextWrapping="Wrap" FontFamily="Cooper Black" Foreground="Gray">
+                            Самый мрачный кинокомикс о Бэтмене, который вывел жанр на новый уровень. Посмертный «Оскар» Хита Леджера
+                        </TextBlock>
+                        <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                            <TextBlock Text="9.0" VerticalAlignment="Center" Margin="21 10 10 10" FontSize="20" Foreground="YellowGreen"/>
+                            <Button Width="110" Content="Подробнее" FontFamily="Cooper Black" FontSize="12" Margin="10"/>
+                        </StackPanel>
+                    </StackPanel>
+                </Grid>
+            </Grid>
+        </materialDesign:TransitioningContent>
+    </Grid>
+</UserControl>

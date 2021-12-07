@@ -1,0 +1,48 @@
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal\KinoKvartal\bin\Debug\KinoKvartal.exe.config
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal\KinoKvartal\bin\Debug\KinoKvartal.exe
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal\KinoKvartal\bin\Debug\KinoKvartal.pdb
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal\KinoKvartal\bin\Debug\MaterialDesignColors.dll
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal\KinoKvartal\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal\KinoKvartal\bin\Debug\MaterialDesignColors.pdb
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal\KinoKvartal\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal\KinoKvartal\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal\KinoKvartal\obj\Debug\KinoKvartal.csproj.AssemblyReference.cache
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal\KinoKvartal\obj\Debug\MainWindow.g.cs
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal\KinoKvartal\obj\Debug\App.g.cs
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal\KinoKvartal\obj\Debug\KinoKvartal_MarkupCompile.cache
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal\KinoKvartal\obj\Debug\KinoKvartal_MarkupCompile.lref
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal\KinoKvartal\obj\Debug\MainWindow.baml
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal\KinoKvartal\obj\Debug\KinoKvartal.g.resources
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal\KinoKvartal\obj\Debug\KinoKvartal.Properties.Resources.resources
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal\KinoKvartal\obj\Debug\KinoKvartal.csproj.GenerateResource.cache
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal\KinoKvartal\obj\Debug\KinoKvartal.csproj.CoreCompileInputs.cache
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal\KinoKvartal\obj\Debug\KinoKvartal.csproj.CopyComplete
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal\KinoKvartal\obj\Debug\KinoKvartal.exe
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal\KinoKvartal\obj\Debug\KinoKvartal.pdb
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal\KinoKvartal\obj\Debug\App.baml
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal\KinoKvartal\obj\Debug\UserControllnicio.g.cs
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal\KinoKvartal\obj\Debug\UserControllnicio.baml
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal — копия\KinoKvartal\bin\Debug\KinoKvartal.exe.config
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal — копия\KinoKvartal\bin\Debug\KinoKvartal.exe
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal — копия\KinoKvartal\bin\Debug\KinoKvartal.pdb
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal — копия\KinoKvartal\bin\Debug\MaterialDesignColors.dll
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal — копия\KinoKvartal\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal — копия\KinoKvartal\bin\Debug\MaterialDesignColors.pdb
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal — копия\KinoKvartal\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal — копия\KinoKvartal\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal — копия\KinoKvartal\obj\Debug\KinoKvartal.csproj.AssemblyReference.cache
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal — копия\KinoKvartal\obj\Debug\MainWindow.g.cs
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal — копия\KinoKvartal\obj\Debug\UserControllnicio.g.cs
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal — копия\KinoKvartal\obj\Debug\App.g.cs
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal — копия\KinoKvartal\obj\Debug\KinoKvartal_MarkupCompile.cache
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal — копия\KinoKvartal\obj\Debug\KinoKvartal_MarkupCompile.lref
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal — копия\KinoKvartal\obj\Debug\App.baml
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal — копия\KinoKvartal\obj\Debug\MainWindow.baml
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal — копия\KinoKvartal\obj\Debug\UserControllnicio.baml
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal — копия\KinoKvartal\obj\Debug\KinoKvartal.g.resources
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal — копия\KinoKvartal\obj\Debug\KinoKvartal.Properties.Resources.resources
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal — копия\KinoKvartal\obj\Debug\KinoKvartal.csproj.GenerateResource.cache
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal — копия\KinoKvartal\obj\Debug\KinoKvartal.csproj.CoreCompileInputs.cache
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal — копия\KinoKvartal\obj\Debug\KinoKvartal.csproj.CopyComplete
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal — копия\KinoKvartal\obj\Debug\KinoKvartal.exe
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\KinoKvartal — копия\KinoKvartal\obj\Debug\KinoKvartal.pdb
